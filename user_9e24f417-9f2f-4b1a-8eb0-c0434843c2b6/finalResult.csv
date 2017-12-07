@@ -1,0 +1,5 @@
+Model,Accuracy,TotalTime
+"decisionTree",0.71,0.5,1.71,29.71,0.38
+"linearModel",0.72,0.52,1.59,29.43,0.25
+"neuralNetwork",0.57,0.32,1.98,29.43,0.58
+"randomForest",0.72,0.52,1.67,31.43,0.85
